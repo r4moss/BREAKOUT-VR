@@ -1,0 +1,5 @@
+[0507/145818.564:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0507/145818.564:ERROR:cache_util.cc(144)] Unable to move cache folder D:/Users/270200797/OneDrive - UP Education/Year 1/Documents/GitHub/BREAKOUT-VR/MyProject/Saved/webcache_4430\Cache to D:/Users/270200797/OneDrive - UP Education/Year 1/Documents/GitHub/BREAKOUT-VR/MyProject/Saved/webcache_4430\old_Cache_000
+[0507/145818.564:ERROR:disk_cache.cc(184)] Unable to create cache
+[0507/145825.015:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0507/150005.858:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
