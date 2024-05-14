@@ -5,27 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-=======
-				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
-				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/Maps/TestingFloor.umap",
-				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/Maps/Untitled.umap",
-				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Maps/TestingFloor.umap",
-				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Maps/Untitled.umap",
-				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Maps/Untitled_BuiltData.uasset",
-				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Blueprints/VRPawn.uasset",
-				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/blueprints/Button.uasset",
-				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/blueprints/cube_BP.uasset",
-				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Blueprints/Grabbable_SmallCube1.uasset",
-				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Blueprints/Grabbable_SmallCube2.uasset",
-				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Maps/_GENERATED/rasmu/Torus_FB26911C.uasset",
->>>>>>> Stashed changes
-				"D:/Users/270200797/OneDrive - UP Education/Year 1/Documents/GitHub/BREAKOUT-VR/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/Users/270200797/OneDrive - UP Education/Year 1/Documents/GitHub/BREAKOUT-VR/MyProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"D:/Users/270200797/OneDrive - UP Education/Year 1/Documents/GitHub/BREAKOUT-VR/MyProject/Content/VRTemplate/Maps/_GENERATED/270200797/Box_AC50A5B1.uasset",
-				"D:/Users/270200797/OneDrive - UP Education/Year 1/Documents/GitHub/BREAKOUT-VR/MyProject/Content/VRTemplate/Maps/_GENERATED/270200797/Extrude_D9A601D2.uasset",
-				"D:/Users/270200797/OneDrive - UP Education/Year 1/Documents/GitHub/BREAKOUT-VR/MyProject/Content/VRTemplate/Maps/_GENERATED/270200797/Stairs_7D683B4C.uasset"
+				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/blueprints/Cube.uasset",
+				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Blueprints/VRPawn.uasset"
 			]
 		}
 	]
