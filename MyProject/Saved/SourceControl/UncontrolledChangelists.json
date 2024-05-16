@@ -6,7 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/blueprints/Cube.uasset",
-				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Blueprints/VRPawn.uasset"
+				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Maps/Untitled.umap",
+				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Input/Actions/SmoothMove/IA_Move2D.uasset",
+				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Input/Actions/SmoothMove/IA_SmoothTurn.uasset",
+				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/blueprints/Button.uasset"
 			]
 		}
 	]
