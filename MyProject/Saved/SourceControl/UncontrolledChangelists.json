@@ -11,7 +11,15 @@
 				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Maps/Untitled.umap",
 				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Input/Actions/SmoothMove/IA_Move2D.uasset",
 				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Input/Actions/SmoothMove/IA_SmoothTurn.uasset",
-				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/blueprints/Button.uasset"
+				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/blueprints/Button.uasset",
+				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/Morse_code/Morse_code_Light.uasset",
+				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/maps/VR_BuiltData.uasset",
+				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/maps/VR.umap",
+				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRTemplate/Blueprints/Menu.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+				"C:/Users/rasmu/Desktop/breakout/BREAKOUT-VR/MyProject/Content/VRSpectator/VRSpectator.uasset"
 			]
 		}
 	]
