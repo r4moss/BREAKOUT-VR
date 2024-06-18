@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{F762668F-4BEE-0FCE-B662-078C0C5B68CF}",
+	"EngineAssociation": "{7FA19031-4A9E-268A-D8D4-DFB5C9F50A85}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -33,6 +33,10 @@
 		},
 		{
 			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "HoudiniEngine",
 			"Enabled": true
 		}
 	],
